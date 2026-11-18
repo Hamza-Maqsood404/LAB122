@@ -1,0 +1,35 @@
+body{
+background-color: linen;
+}
+#header , .stage{
+border: 2px solid teal;
+margin-bottom: 15px;
+background-color: maroon;
+}
+#past, .stage {
+  border: 2px solid teal;
+border: 2px solid teal;
+
+
+margin-left: 0px;
+}
+
+#present, .stage {
+border: 2px solid teal;
+
+margin-left: 40px;
+}
+
+#future, .stage {
+border: 2px dotted teal;
+
+margin-left: 80px;
+}
+
+#myimage {
+  width: 100px;         
+  height: 100px;        
+  border-radius: 50%;
+  border: 8px solid white;   
+  object-fit: cover;    
+}
